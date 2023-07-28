@@ -73,13 +73,13 @@ header .link1 {
     margin: 160px 130px;
 }
 
-.section1 {
+.sel1 {
     margin: 0 130px 160px 130px;
     width: 1180px;
     height: 856px;
 }
 
-.section1 .section-header {
+.sel1 .section-header {
     display: flex;
     align-items: center;
     width: 533px;
@@ -121,7 +121,7 @@ header .link1 {
     margin: 8px 0;
 }
 
-.Price {
+.fasi {
     font-family: bDejaVu Sans;
     font-size: 24px;
     font-weight: 700;
